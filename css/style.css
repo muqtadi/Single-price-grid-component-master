@@ -88,6 +88,23 @@
   cursor: pointer;
 }
 
+.advantages {
+  background-color: #4abebd;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.advantages .container .advantages__title {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.advantages .container .advantages__copy {
+  font-size: 14px;
+  color: #e5eff5;
+  line-height: 20px;
+}
+
 * {
   margin: 0;
   padding: 0;

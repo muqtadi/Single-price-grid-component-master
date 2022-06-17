@@ -1,0 +1,17 @@
+.advantages{
+  background-color: rgb(74, 190, 189);
+  color: #fff;
+  padding: 20px 0;
+
+  .container{
+    .advantages__title{
+      font-size: 20px;
+      margin-bottom: 20px;
+    }
+    .advantages__copy{
+      font-size: 14px;
+      color: rgb(229, 239, 245);
+      line-height: 20px;
+    }
+  }
+}
