@@ -38,7 +38,10 @@ body{
   padding: 0 20px;
 }
 .single__price__card{
-  max-width: 640px;
-  min-height: 475px;
-  border: 1px solid;
+  max-width: 642px;
+  min-height: 477px;
+  margin: 0 20px;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 0 15px 5px rgba(89, 122, 122, 0.1);
 }
