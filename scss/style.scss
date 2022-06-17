@@ -30,7 +30,15 @@ body{
   max-width: 1440px;
   min-height: 100vh;
   margin: 0 auto;
+  background-color: rgb(230, 239, 246);
+  display: grid;
+  place-content: center;
 }
 .container{
   padding: 0 20px;
+}
+.single__price__card{
+  max-width: 640px;
+  min-height: 475px;
+  border: 1px solid;
 }

@@ -32,9 +32,19 @@ body {
   max-width: 1440px;
   min-height: 100vh;
   margin: 0 auto;
+  background-color: #e6eff6;
+  display: -ms-grid;
+  display: grid;
+  place-content: center;
 }
 
 .container {
   padding: 0 20px;
+}
+
+.single__price__card {
+  max-width: 640px;
+  min-height: 475px;
+  border: 1px solid;
 }
 /*# sourceMappingURL=style.css.map */
