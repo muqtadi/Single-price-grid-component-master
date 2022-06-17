@@ -12,6 +12,10 @@
   font-style: normal;
 }
 
+.header {
+  max-width: 640px;
+}
+
 * {
   margin: 0;
   padding: 0;
